@@ -16,6 +16,7 @@ gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'font-awesome-rails'
 gem 'bootstrap_form'
+gem 'twitter-bootstrap-rails'
 
 # Faker
 gem 'faker'
