@@ -1,12 +1,5 @@
 //= require jquery
 //= require jquery_ujs
-//= require twitter/bootstrap
+//= require bootstrap-sprockets
 //= require turbolinks
-//= require jquery.backstretch.min
-//= require jquery.countTo
-//= require jquery.magnific-popup.min
-//= require masonry.pkgd.min
-//= require retina.min
-//= require jquery.waypoints.min
-//= require wow.min
 //= require_tree .
